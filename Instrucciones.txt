@@ -1,3 +1,48 @@
 git add .
 git commit -m "Texto"
 git push
+
+ICBC
+
+fravega 2/6 10.333   (taladro) 3.450 c/u  (viejas y yo)
+movistar pago de factura 2/6 (celular magui) 48.334 (magui)
+coto  126.300 1/6 (compras del mes) 63.150 c/u (magui y yo)
+fravega  39.999  (bici)  20.000 c/u (magui y yo)
+
+total menos icbc:   138.384
+
+
+BBVA
+icase 2 5500 (funda)  5500 (magui)
+
+BBVA MC
+despegar 2/6 29.580 (hospedaje)  15.000 c/u (magui y yo)
+
+EPagos 18.000 1/1 (auto)   vieja total
+
+
+ 
+icbc: 138.384
+BBVA: 5500
+BBVA MC: 33.000
+total: 176.884
+
+116.000
+
+
+para marzo:
+ICBC
+fravega 3/6 10.333   (taladro) 3.450 c/u  (viejas y yo)
+movistar pago de factura 3/6  (celular magui) 48.334 (magui)
+carrefour: 000000 (compras del mes) 0000 c/u (magui y yo)
+fravega  39.999 2/6 (bici)  20.000 c/u (magui y yo)
+ 
+
+
+BBVA
+icase 2 5500 funda  5500 magui
+
+BBVA MC
+despegar 3/6 29580 (hospedaje)  15.000 c/u  (magui y yo)
+
+
